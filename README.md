@@ -1,6 +1,6 @@
-Data Science and Machine Learning Path
+# Data Science and Machine Learning Path
 
-# Data Analysis and Visualization
+## Data Analysis and Visualization
 1. Numpy
 2. Pandas
 3. Matplotlib
