@@ -1,4 +1,4 @@
-# Data Science and Machine Learning Path
+# Data Science and Machine Learning
 
 ## Data Analysis and Visualization
 1. Numpy
