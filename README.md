@@ -18,4 +18,3 @@
    3. Advertising Campaign
 2. Polynomial Regression
    1. Advertising Campaign
- 
