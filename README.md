@@ -12,6 +12,10 @@
 9. Capstone Project II
 
 ## Machine Learning
+0. Feature Engineering
+   1. Dealing with Outliers
+   2. Dealing with Missing Values
+   3. Dealing with Categorical Data
 1. Linear Regression
    1. Housing Price Prediction
    2. E-commerce
