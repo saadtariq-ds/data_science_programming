@@ -26,3 +26,9 @@
    1. L1 - LASSO Regression
    2. L2 - RIDGE Regression
    3. L1 and L2 - Elastic Net
+4. Cross Validation and Grid Search
+   1. Cross Validation with Train Test
+   2. Cross Validation with Train Validation Test
+   3. Cross Validation with Cross Val Score
+   4. Cross Validation with Cross Validate
+   5. Grid Search
