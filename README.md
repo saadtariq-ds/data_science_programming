@@ -18,3 +18,7 @@
    3. Advertising Campaign
 2. Polynomial Regression
    1. Advertising Campaign
+3. Regularization
+   1. L1 - LASSO Regression
+   2. L2 - RIDGE Regression
+   3. L1 and L2 - Elastic Net
