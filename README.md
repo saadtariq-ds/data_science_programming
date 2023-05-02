@@ -32,3 +32,5 @@
    3. Cross Validation with Cross Val Score
    4. Cross Validation with Cross Validate
    5. Grid Search
+5. Linear Regression Project
+   1. AMES Housing Dataset
