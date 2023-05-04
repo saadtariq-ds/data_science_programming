@@ -34,3 +34,9 @@
    5. Grid Search
 5. Linear Regression Project
    1. AMES Housing Dataset
+6. Logistic Regression
+   1. Titanic Survival Prediction - Binary Classification
+   2. Advertising Click on Ad - Binary Classification
+   3. Hearing Loss Prediction - Binary Classification
+   4. Heart Disease Prediction - Binary Classification
+   5. Iris Classification - Multiclass Classification
