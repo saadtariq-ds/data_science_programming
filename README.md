@@ -40,3 +40,6 @@
    3. Hearing Loss Prediction - Binary Classification
    4. Heart Disease Prediction - Binary Classification
    5. Iris Classification - Multiclass Classification
+7. K Nearest Neighbors
+   1. Gene Expression Prediction
+   2. Sonar Prediction
