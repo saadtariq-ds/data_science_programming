@@ -43,3 +43,9 @@
 7. K Nearest Neighbors
    1. Gene Expression Prediction
    2. Sonar Prediction
+8. Support Vector Machines
+   1. Breast Cancer Prediction
+   2. Iris Classification
+   3. Mouse Viral Infection Classification
+   4. Concrete Slump (Regression)
+   5. Fraud Wine Classification (Imbalance Classes)
