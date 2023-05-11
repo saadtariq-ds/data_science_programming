@@ -49,3 +49,5 @@
    3. Mouse Viral Infection Classification
    4. Concrete Slump (Regression)
    5. Fraud Wine Classification (Imbalance Classes)
+9. Decision Trees
+   1. Penguin Specie Classification
