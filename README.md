@@ -62,6 +62,6 @@
    1. Telecom Churn Prediction
 13. Naive Bayes and Natural Language Processing
    1. Features Extraction Manually
-   2. Features Extraction Scikit Learn	
+   2. Features Extraction Scikit Learn
    3. Text Classification - Airline Tweets
    4. Text Classification - Movie Reviews
