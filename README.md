@@ -52,16 +52,16 @@
 9. Decision Trees
    1. Penguin Specie Classification
 10. Random Forest
-   1. Penguin Size Classification
-   2. Rock Density Prediction
-   3. Bank Note Authentication Classification
+    1. Penguin Size Classification
+    2. Rock Density Prediction
+    3. Bank Note Authentication Classification
 11. Boosting Methods
-   1. Mushroom Classification using Adaboost
-   2. Mushroom Classification using Gradient Boosting
+    1. Mushroom Classification using Adaboost
+    2. Mushroom Classification using Gradient Boosting
 12. Supervised Learning Capstone Project
-   1. Telecom Churn Prediction
+    1. Telecom Churn Prediction
 13. Naive Bayes and Natural Language Processing
-   1. Features Extraction Manually
-   2. Features Extraction Scikit Learn
-   3. Text Classification - Airline Tweets
-   4. Text Classification - Movie Reviews
+    1. Features Extraction Manually
+    2. Features Extraction Scikit Learn
+    3. Text Classification - Airline Tweets
+    4. Text Classification - Movie Reviews
